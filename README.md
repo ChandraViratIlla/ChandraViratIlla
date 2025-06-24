@@ -18,7 +18,7 @@
 
 ## 📫 Reach Me At
 - 🌐 Portfolio: (https://portfolio-chandra-virats-projects.vercel.app/)
-- 📧 Email: chandravirat222@example.com 
+- 📧 Email: chandravirat222@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/chandra-virat-illa/
 
 ## 😄 Pronouns
